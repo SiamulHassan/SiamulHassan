@@ -1,12 +1,83 @@
 ![MasterHead](https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design-gif-janakpuri.gif)
-<h1 align="center">Hi 👋, I'm Siamul Hassan</h1>
-<h3 align="center">A MERN Stack Developer</h3>
+# Hi, I'm Siamul Hassan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siamulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="siamulhassan" /> </p>
+## Full Stack Software Engineer from Bangladesh  
+### I build scalable web applications, SaaS platforms, and MVPs using MERN, Next.js, TypeScript, and clean system architecture.
 
-- 🔭 I’m currently working on [an Ecommerce Project](https://orebiecommerc.netlify.app)
+I specialize in turning ideas into production-ready web products, from frontend interfaces to backend APIs, databases, authentication, payment integration, and deployment.
 
-- 💬 Ask me about **JavaScript & React.js**
+---
+
+## 🚀 What I Do Best
+
+- Build full-stack web applications using **MERN Stack**
+- Develop modern apps with **Next.js, React.js, and TypeScript**
+- Create scalable **SaaS platforms and MVP products**
+- Design clean backend systems with **Node.js, Express.js, MongoDB, and REST APIs**
+- Implement authentication, dashboards, payment gateways, and third-party integrations
+- Skilled in full-stack development with working knowledge of system design, software architecture, DSA, and AI-assisted development
+
+---
+
+## 🧠 My Core Strengths
+
+**Frontend:** React.js, Next.js, TypeScript, Redux, Tailwind CSS, Chakra UI  
+**Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication  
+**Database:** MongoDB, Mongoose, MongoDB Atlas  
+**Architecture:** SaaS Architecture, MVP Planning, Microservices Concepts, System Design  
+**Payments:** Stripe, QuickBooks Online  
+**Tools:** Git, GitHub, Postman, VS Code, Figma, MongoDB Compass  
+**Deployment:** Firebase, Vercel, Netlify, Heroku  
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate Full Stack Software Engineer who enjoys building scalable, clean, and user-focused web applications. I love solving real-world problems, collaborating with teams, contributing to open-source, and continuously improving my development workflow.
+
+I also use AI as a coding assistant to improve productivity, debug faster, and build better solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+JavaScript ES6+, TypeScript, HTML5, CSS3
+
+### Frontend
+React.js, Next.js, Redux, Tailwind CSS, Chakra UI, Bootstrap
+
+### Backend
+Node.js, Express.js, RESTful APIs, JWT, Axios
+
+### Database
+MongoDB, Mongoose, MongoDB Atlas
+
+### Services & Hosting
+Firebase, Heroku, Netlify, Vercel
+
+### APIs & Integrations
+RESTful APIs, Stripe, QuickBooks Online
+
+### Tools
+Git, GitHub, Postman, VS Code, Figma, MongoDB Compass
+
+### Concepts
+Responsive Design, Problem Solving, Asynchronous Programming, Debugging, System Design, Microservices Architecture, DSA
+
+---
+
+## 🚀 What I Like to Build
+
+- SaaS platforms
+- MVP products
+- Admin dashboards
+- Business management systems
+- REST API based applications
+- Responsive web applications
+- Scalable full-stack products
+
+---
 
 - 📫 How to reach me **syeam45@gmail.com**
 
