@@ -9,10 +9,6 @@ I build complete web applications from start to finish, including frontend imple
 </p>
 
 <p align="center">
-Experienced in delivering production-level e-commerce systems with inventory synchronization, payment gateway integration, refund handling, shipping rate calculation, order processing, and external service integrations.
-</p>
-
-<p align="center">
   <a href="mailto:syeam45@gmail.com">
     <img src="https://img.shields.io/badge/Email-syeam45%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
