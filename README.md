@@ -1,4 +1,3 @@
-![MasterHead](https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design-gif-janakpuri.gif)
 # Hi, I'm Siamul Hassan 👋
 
 ## Full Stack Software Engineer from Bangladesh  
